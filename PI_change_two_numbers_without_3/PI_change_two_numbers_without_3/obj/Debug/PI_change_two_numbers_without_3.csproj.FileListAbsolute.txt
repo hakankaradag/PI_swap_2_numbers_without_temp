@@ -1,0 +1,7 @@
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\bin\Debug\PI_change_two_numbers_without_3.exe.config
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\bin\Debug\PI_change_two_numbers_without_3.exe
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\bin\Debug\PI_change_two_numbers_without_3.pdb
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\obj\Debug\PI_change_two_numbers_without_3.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\obj\Debug\PI_change_two_numbers_without_3.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\obj\Debug\PI_change_two_numbers_without_3.exe
+C:\Users\Hakan\source\repos\PI_change_two_numbers_without_3\PI_change_two_numbers_without_3\obj\Debug\PI_change_two_numbers_without_3.pdb

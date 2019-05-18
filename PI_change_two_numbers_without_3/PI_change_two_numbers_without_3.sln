@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_change_two_numbers_without_3", "PI_change_two_numbers_without_3\PI_change_two_numbers_without_3.csproj", "{308678B7-BD80-4FF0-931F-5CFCE91A8D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308678B7-BD80-4FF0-931F-5CFCE91A8D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308678B7-BD80-4FF0-931F-5CFCE91A8D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308678B7-BD80-4FF0-931F-5CFCE91A8D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308678B7-BD80-4FF0-931F-5CFCE91A8D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02C49C0-DAF6-4713-B479-3D2CB647F940}
+	EndGlobalSection
+EndGlobal
